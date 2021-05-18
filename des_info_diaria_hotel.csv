@@ -1,3 +1,4 @@
+"fecha_ocupacion","año","num_mes","nombre_mes","num_dia_mes","num_dia_semana","nombre_dia_semana","hotel","num_hab_inventario","num_hab_ooo","num_hab_cancel","num_hab_disponibles","num_hab_vendidas_ind","num_hab_vendidas_grp","num_hab_vendidas_total","venta_por_alojamiento_ind","venta_por_alojamiento_grp","venta_por_alojamiento_total","valor_tasa"
 "1/1/2020","2020","1","ene","1","3","mie","SLA","62","7","0","55","44","0","44","12577.6","0","12577.6",
 "1/1/2020","2020","1","ene","1","3","mie","SPA","57","0","0","57","49","0","49","50530.9","0","50530.9",
 "2/1/2020","2020","1","ene","2","4","jue","SLA","62","3","0","59","47","0","47","13332.6","0","13332.6",

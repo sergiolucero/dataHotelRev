@@ -1,3 +1,4 @@
+"hotel","fecha_ocupacion","numero_de_habitaciones","venta_por_alojamiento","numero_de_habitaciones_reservas","venta_por_alojamiento_reservas","dif_ocup","dif_ingresos","dif_ocup_porc","dif_ingresos_porc","flag_anomalia"
 "SLA","1/1/2018","53","14913","0","0","-53","-14913","-1","-1","1"
 "SLA","2/1/2018","59","16585","2","569","-57","-16016","-0.966101694","-0.9656918902622852","1"
 "SLA","3/1/2018","62","17173","6","1785","-56","-15388","-0.903225806","-0.8960577650963722","1"
